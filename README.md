@@ -1,6 +1,5 @@
-# A CS sophomore 👨🏻‍💻
-* Rookie competitive programmer | C++ 💕
-* Currently learning HTML | CSS | JAVASCRIPT
-
-
-
+# Final year CS student 👨🏼‍🎓
+## Currently learning
+- Go
+- HTTP
+- Backend
