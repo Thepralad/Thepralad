@@ -1,4 +1,4 @@
-# Final year CS student 👨🏼‍🎓
+# Aspiring Software Engineer 👨🏼‍🎓
 ## Currently learning
 - Go
 - HTTP
